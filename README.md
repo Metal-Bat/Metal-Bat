@@ -1,4 +1,5 @@
 - Hi, I’m Erfan
 - I’m interested in no one i have my laptop
 - I’m currently learning something clearly not gona use in my entire life
-- if you wonder How to reach me i should say i don't want your needs
+- if you wonder How to reach me i should say i don't want your to reach me, thats why
+- you have any problem in code or wants some help to improve, feel free to ask some one
