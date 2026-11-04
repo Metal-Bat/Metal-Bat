@@ -4,6 +4,8 @@
 
 **Developer · Free software enthusiast · Occasional GitHub visitor**
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1300&color=BD93F9&center=true&vCenter=true&width=520&lines=Free+software+enjoyer;Backend+%26+infrastructure+developer;Occasionally+on+GitHub" alt="Animated typing introduction" />
+
 </div>
 
 > My name is Erfan. Although GitHub is not my primary platform since I'm a supporter of the Free Software Foundation, I occasionally create projects here for fun.
@@ -13,46 +15,123 @@
 [![LinkedIn — supposedly finding job platform](https://img.shields.io/badge/supposedly%20finding%20job%20platform-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://media1.tenor.com/m/vIHJ8MzvWRwAAAAd/xmen-97-x-men-97.gif)
 ![Outlook — for Mokking microsoft](https://img.shields.io/badge/for%20Mokking%20microsoft-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
 
-<img src="https://media1.tenor.com/m/vIHJ8MzvWRwAAAAd/xmen-97-x-men-97.gif" alt="X-Men '97 animated GIF" height="180" />
+### 🦇 The Batcave — frames worth keeping
+
+<img src="https://media1.tenor.com/m/vIHJ8MzvWRwAAAAd/xmen-97-x-men-97.gif" alt="X-Men '97 featured animation" height="200" />
+
+<details><summary>More animations I love (gallery under review)</summary>
+
+| | |
+|:--:|:--:|
+| [Saitama — OK](https://tenor.com/view/saitama-one-punch-man-ok-okay-unimpressed-gif-4838585) | [Arcane S1 — Enemy intro](https://tenor.com/view/arcane-enemy-jinx-short-gif-23598176) |
+| [Batman Beyond — red silhouette](https://tenor.com/view/batman-beyond-falseface-first-person-pov-fight-action-gif-25238730) | [Across the Spider-Verse — Gwen and her father](https://tenor.com/view/gwen-stacy-gwen-spider-gwen-spider-woman-spider-man-gif-14013766178315762609) |
+| Spider-Man '94 — GIF URL pending | [Grand Blue — Kohei speech](https://tenor.com/view/kohei-funny-grand-blue-anime-and-games-iori-gif-22375473) |
+| [EPIC — Nya Tyan fan animatic (not a GIF)](https://www.youtube.com/watch?v=RAVfp4YZ8nA) | شکرستان — original animation GIF pending |
+
+</details>
 
 </div>
 
 ## ⚡ Tech I work with
 
-### Java & Spring
+### Languages
 
-![Java](https://img.shields.io/badge/Java-282a36?style=for-the-badge&logo=java&logoColor=bd93f9) ![Spring](https://img.shields.io/badge/Spring-282a36?style=for-the-badge&logo=spring&logoColor=bd93f9) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-282a36?style=for-the-badge&logo=springboot&logoColor=bd93f9) ![Lombok](https://img.shields.io/badge/Lombok-282a36?style=for-the-badge&logo=java&logoColor=bd93f9) ![Maven](https://img.shields.io/badge/Maven-282a36?style=for-the-badge&logo=maven&logoColor=bd93f9)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/java/java-original.svg" height="44" width="44" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/go/go-original.svg" height="44" width="44" alt="Go" title="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" height="44" width="44" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/typescript/typescript-original.svg" height="44" width="44" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" height="44" width="44" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/rust/rust-original.svg" height="44" width="44" alt="Rust" title="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/bash/bash-original.svg" height="44" width="44" alt="Bash" title="Bash" />
+</div>
 
-### Go & backend
+### Frameworks
 
-![Go](https://img.shields.io/badge/Go-282a36?style=for-the-badge&logo=go&logoColor=bd93f9) ![GORM](https://img.shields.io/badge/GORM-282a36?style=for-the-badge&logo=go&logoColor=bd93f9) ![Gin](https://img.shields.io/badge/Gin-282a36?style=for-the-badge&logo=go&logoColor=bd93f9) ![Fiber](https://img.shields.io/badge/Fiber-282a36?style=for-the-badge&logo=go&logoColor=bd93f9) ![gRPC](https://img.shields.io/badge/gRPC-282a36?style=for-the-badge&logo=grpc&logoColor=bd93f9) ![OpenAPI / Swagger](https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-282a36?style=for-the-badge&logo=swagger&logoColor=bd93f9) ![Keycloak](https://img.shields.io/badge/Keycloak-282a36?style=for-the-badge&logo=keycloak&logoColor=bd93f9)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/spring/spring-original.svg" height="44" width="44" alt="Spring" title="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/spring/spring-original.svg" height="44" width="44" alt="Spring Boot" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/angular/angular-original.svg" height="44" width="44" alt="Angular" title="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/django/django-plain.svg" height="44" width="44" alt="Django" title="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/flask/flask-original.svg" height="44" width="44" alt="Flask" title="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/fastapi/fastapi-original.svg" height="44" width="44" alt="FastAPI" title="FastAPI" />
+  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="44" width="44" alt="Gin" title="Gin" />
+  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" height="44" width="44" alt="Fiber" title="Fiber" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/tailwindcss/tailwindcss-original.svg" height="44" width="44" alt="Tailwind CSS" title="Tailwind CSS" />
+</div>
 
-### Python & data
+### Libraries & APIs
 
-![Python](https://img.shields.io/badge/Python-282a36?style=for-the-badge&logo=python&logoColor=bd93f9) ![Django](https://img.shields.io/badge/Django-282a36?style=for-the-badge&logo=django&logoColor=bd93f9) ![Flask](https://img.shields.io/badge/Flask-282a36?style=for-the-badge&logo=flask&logoColor=bd93f9) ![FastAPI](https://img.shields.io/badge/FastAPI-282a36?style=for-the-badge&logo=fastapi&logoColor=bd93f9) ![Pydantic](https://img.shields.io/badge/Pydantic-282a36?style=for-the-badge&logo=pydantic&logoColor=bd93f9) ![Polars](https://img.shields.io/badge/Polars-282a36?style=for-the-badge&logo=polars&logoColor=bd93f9) ![Pandas](https://img.shields.io/badge/Pandas-282a36?style=for-the-badge&logo=pandas&logoColor=bd93f9) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-282a36?style=for-the-badge&logo=sqlalchemy&logoColor=bd93f9) ![Pytest](https://img.shields.io/badge/Pytest-282a36?style=for-the-badge&logo=pytest&logoColor=bd93f9) ![Jupyter](https://img.shields.io/badge/Jupyter-282a36?style=for-the-badge&logo=jupyter&logoColor=bd93f9)
-
-### Frontend
-
-![Angular](https://img.shields.io/badge/Angular-282a36?style=for-the-badge&logo=angular&logoColor=bd93f9) ![TypeScript](https://img.shields.io/badge/TypeScript-282a36?style=for-the-badge&logo=typescript&logoColor=bd93f9) ![JavaScript](https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=bd93f9) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-282a36?style=for-the-badge&logo=tailwindcss&logoColor=bd93f9)
+<div align="center">
+  <img src="https://projectlombok.org/favicon.ico" height="44" width="44" alt="Lombok" title="Lombok" />
+  <img src="https://raw.githubusercontent.com/go-gorm/gorm.io/master/static/img/gorm.svg" height="44" width="44" alt="GORM" title="GORM" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pydantic/pydantic-original.svg" height="44" width="44" alt="Pydantic" title="Pydantic" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/polars/polars-original.svg" height="44" width="44" alt="Polars" title="Polars" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pandas/pandas-original.svg" height="44" width="44" alt="Pandas" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/sqlalchemy/sqlalchemy-original.svg" height="44" width="44" alt="SQLAlchemy" title="SQLAlchemy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pytest/pytest-original.svg" height="44" width="44" alt="Pytest" title="Pytest" />
+  <img src="https://cdn.simpleicons.org/grpc/244C5A" height="44" width="44" alt="gRPC" title="gRPC" />
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="44" width="44" alt="OpenAPI / Swagger" title="OpenAPI / Swagger" />
+</div>
 
 ### Databases & messaging
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282a36?style=for-the-badge&logo=postgresql&logoColor=bd93f9) ![MongoDB](https://img.shields.io/badge/MongoDB-282a36?style=for-the-badge&logo=mongodb&logoColor=bd93f9) ![Redis](https://img.shields.io/badge/Redis-282a36?style=for-the-badge&logo=redis&logoColor=bd93f9) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-282a36?style=for-the-badge&logo=rabbitmq&logoColor=bd93f9) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-282a36?style=for-the-badge&logo=elasticsearch&logoColor=bd93f9) ![Kibana](https://img.shields.io/badge/Kibana-282a36?style=for-the-badge&logo=kibana&logoColor=bd93f9) ![MinIO](https://img.shields.io/badge/MinIO-282a36?style=for-the-badge&logo=minio&logoColor=bd93f9)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postgresql/postgresql-original.svg" height="44" width="44" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original.svg" height="44" width="44" alt="MongoDB" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/redis/redis-original.svg" height="44" width="44" alt="Redis" title="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/rabbitmq/rabbitmq-original.svg" height="44" width="44" alt="RabbitMQ" title="RabbitMQ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/elasticsearch/elasticsearch-original.svg" height="44" width="44" alt="Elasticsearch" title="Elasticsearch" />
+  <img src="https://cdn.simpleicons.org/minio/CC0000" height="44" width="44" alt="MinIO" title="MinIO" />
+</div>
 
-### Cloud & observability
+### Infrastructure & observability
 
-![Docker](https://img.shields.io/badge/Docker-282a36?style=for-the-badge&logo=docker&logoColor=bd93f9) ![Kubernetes](https://img.shields.io/badge/Kubernetes-282a36?style=for-the-badge&logo=kubernetes&logoColor=bd93f9) ![Helm](https://img.shields.io/badge/Helm-282a36?style=for-the-badge&logo=helm&logoColor=bd93f9) ![NGINX](https://img.shields.io/badge/NGINX-282a36?style=for-the-badge&logo=nginx&logoColor=bd93f9) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-282a36?style=for-the-badge&logo=githubactions&logoColor=bd93f9) ![Grafana](https://img.shields.io/badge/Grafana-282a36?style=for-the-badge&logo=grafana&logoColor=bd93f9) ![Prometheus](https://img.shields.io/badge/Prometheus-282a36?style=for-the-badge&logo=prometheus&logoColor=bd93f9)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/docker/docker-original.svg" height="44" width="44" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/kubernetes/kubernetes-original.svg" height="44" width="44" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/helm/helm-original.svg" height="44" width="44" alt="Helm" title="Helm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nginx/nginx-original.svg" height="44" width="44" alt="NGINX" title="NGINX" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/keycloak/keycloak-original.svg" height="44" width="44" alt="Keycloak" title="Keycloak" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/githubactions/githubactions-original.svg" height="44" width="44" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/grafana/grafana-original.svg" height="44" width="44" alt="Grafana" title="Grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/prometheus/prometheus-original.svg" height="44" width="44" alt="Prometheus" title="Prometheus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/kibana/kibana-original.svg" height="44" width="44" alt="Kibana" title="Kibana" />
+</div>
 
-### Tools & systems
+### Tools & platforms
 
-![Rust](https://img.shields.io/badge/Rust-282a36?style=for-the-badge&logo=rust&logoColor=bd93f9) ![Zsh](https://img.shields.io/badge/Zsh-282a36?style=for-the-badge&logo=gnubash&logoColor=bd93f9) ![VS Code](https://img.shields.io/badge/VS%20Code-282a36?style=for-the-badge&logo=visualstudiocode&logoColor=bd93f9) ![Git](https://img.shields.io/badge/Git-282a36?style=for-the-badge&logo=git&logoColor=bd93f9) ![GitHub](https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github&logoColor=bd93f9) ![GitLab](https://img.shields.io/badge/GitLab-282a36?style=for-the-badge&logo=gitlab&logoColor=bd93f9) ![Linux](https://img.shields.io/badge/Linux-282a36?style=for-the-badge&logo=linux&logoColor=bd93f9) ![Debian](https://img.shields.io/badge/Debian-282a36?style=for-the-badge&logo=debian&logoColor=bd93f9) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-282a36?style=for-the-badge&logo=raspberrypi&logoColor=bd93f9) ![Bash](https://img.shields.io/badge/Bash-282a36?style=for-the-badge&logo=bash&logoColor=bd93f9)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vscode/vscode-original.svg" height="44" width="44" alt="VS Code" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/maven/maven-original.svg" height="44" width="44" alt="Maven" title="Maven" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/git/git-original.svg" height="44" width="44" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/github/github-original.svg" height="44" width="44" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/gitlab/gitlab-original.svg" height="44" width="44" alt="GitLab" title="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/linux/linux-original.svg" height="44" width="44" alt="Linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/debian/debian-original.svg" height="44" width="44" alt="Debian" title="Debian" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/raspberrypi/raspberrypi-original.svg" height="44" width="44" alt="Raspberry Pi" title="Raspberry Pi" />
+  <img src="https://cdn.simpleicons.org/zsh/89E051" height="44" width="44" alt="Zsh" title="Zsh" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jupyter/jupyter-original.svg" height="44" width="44" alt="Jupyter" title="Jupyter" />
+</div>
 
 ## 📊 GitHub, when I'm here
 
 <div align="center">
 
-<!-- Generated by .github/workflows/metrics.yml and served from this repository. -->
+<!-- Generated by GitHub Actions; SVGs appear after successful workflow runs. -->
 <img src="./assets/github-metrics.svg" alt="GitHub metrics and language activity (generated weekly)" width="750" />
+
+### Language treemap
+
+<img src="./assets/language-treemap.svg" alt="Public repository language treemap" width="750" />
+
+### 3D contributions
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="750" />
+
+### Contribution snake
+
+<img src="./assets/github-snake.svg" alt="Contribution snake animation" width="750" />
 
 </div>
 
