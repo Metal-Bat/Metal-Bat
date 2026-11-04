@@ -19,22 +19,24 @@
 
 <img src="https://media1.tenor.com/m/vIHJ8MzvWRwAAAAd/xmen-97-x-men-97.gif" alt="X-Men '97 featured animation" height="200" />
 
-<details><summary>More animations I love (gallery under review)</summary>
-
-| | |
-|:--:|:--:|
-| [Saitama — OK](https://tenor.com/view/saitama-one-punch-man-ok-okay-unimpressed-gif-4838585) | [Arcane S1 — Enemy intro](https://tenor.com/view/arcane-enemy-jinx-short-gif-23598176) |
-| [Batman Beyond — red silhouette](https://tenor.com/view/batman-beyond-falseface-first-person-pov-fight-action-gif-25238730) | [Across the Spider-Verse — Gwen and her father](https://tenor.com/view/gwen-stacy-gwen-spider-gwen-spider-woman-spider-man-gif-14013766178315762609) |
-| Spider-Man '94 — GIF URL pending | [Grand Blue — Kohei speech](https://tenor.com/view/kohei-funny-grand-blue-anime-and-games-iori-gif-22375473) |
-| [EPIC — Nya Tyan fan animatic (not a GIF)](https://www.youtube.com/watch?v=RAVfp4YZ8nA) | شکرستان — original animation GIF pending |
-
-</details>
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><a href="https://tenor.com/view/saitama-one-punch-man-ok-okay-unimpressed-gif-4838585"><strong>One-Punch Man</strong><br/>Saitama — OK 🎬</a></td>
+    <td align="center" width="50%"><a href="https://tenor.com/view/arcane-enemy-jinx-short-gif-23598176"><strong>Arcane S1</strong><br/>Enemy intro 🎬</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://tenor.com/view/batman-beyond-falseface-first-person-pov-fight-action-gif-25238730"><strong>Batman Beyond</strong><br/>Red silhouette fight 🎬</a></td>
+    <td align="center"><a href="https://tenor.com/view/gwen-stacy-gwen-spider-gwen-spider-woman-spider-man-gif-14013766178315762609"><strong>Across the Spider-Verse</strong><br/>Gwen and her father 🎬</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://tenor.com/view/kohei-funny-grand-blue-anime-and-games-iori-gif-22375473"><strong>Grand Blue</strong><br/>Kohei's speech 🎬</a></td>
+    <td align="center"><a href="https://www.youtube.com/watch?v=RAVfp4YZ8nA"><strong>EPIC: The Musical</strong><br/>Nya Tyan fan animatic 🎬</a></td>
+  </tr>
+</table>
 
 </div>
 
 ## ⚡ Tech I work with
-
-### Languages
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/java/java-original.svg" height="44" width="44" alt="Java" title="Java" />
@@ -45,8 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/rust/rust-original.svg" height="44" width="44" alt="Rust" title="Rust" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/bash/bash-original.svg" height="44" width="44" alt="Bash" title="Bash" />
 </div>
-
-### Frameworks
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/spring/spring-original.svg" height="44" width="44" alt="Spring" title="Spring" />
@@ -60,8 +60,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/tailwindcss/tailwindcss-original.svg" height="44" width="44" alt="Tailwind CSS" title="Tailwind CSS" />
 </div>
 
-### Libraries & APIs
-
 <div align="center">
   <img src="https://projectlombok.org/favicon.ico" height="44" width="44" alt="Lombok" title="Lombok" />
   <img src="https://raw.githubusercontent.com/go-gorm/gorm.io/master/static/img/gorm.svg" height="44" width="44" alt="GORM" title="GORM" />
@@ -74,8 +72,6 @@
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="44" width="44" alt="OpenAPI / Swagger" title="OpenAPI / Swagger" />
 </div>
 
-### Databases & messaging
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postgresql/postgresql-original.svg" height="44" width="44" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original.svg" height="44" width="44" alt="MongoDB" title="MongoDB" />
@@ -84,8 +80,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/elasticsearch/elasticsearch-original.svg" height="44" width="44" alt="Elasticsearch" title="Elasticsearch" />
   <img src="https://cdn.simpleicons.org/minio/CC0000" height="44" width="44" alt="MinIO" title="MinIO" />
 </div>
-
-### Infrastructure & observability
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/docker/docker-original.svg" height="44" width="44" alt="Docker" title="Docker" />
@@ -98,8 +92,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/prometheus/prometheus-original.svg" height="44" width="44" alt="Prometheus" title="Prometheus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/kibana/kibana-original.svg" height="44" width="44" alt="Kibana" title="Kibana" />
 </div>
-
-### Tools & platforms
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vscode/vscode-original.svg" height="44" width="44" alt="VS Code" title="VS Code" />
