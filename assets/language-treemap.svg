@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" role="img" aria-label="Language treemap">
+<rect width="900" height="340" rx="14" fill="#282a36"/>
+<rect x="0.00" y="0" width="831.72" height="340" fill="#bd93f9" stroke="#282a36" stroke-width="3"/>
+<text x="415.86" y="170" font-family="sans-serif" font-weight="bold" font-size="20" text-anchor="middle" fill="#282a36">Python</text>
+<rect x="831.72" y="0" width="21.91" height="340" fill="#ff79c6" stroke="#282a36" stroke-width="3"/>
+<rect x="853.63" y="0" width="20.59" height="340" fill="#8be9fd" stroke="#282a36" stroke-width="3"/>
+<rect x="874.22" y="0" width="9.41" height="340" fill="#50fa7b" stroke="#282a36" stroke-width="3"/>
+<rect x="883.63" y="0" width="6.15" height="340" fill="#ffb86c" stroke="#282a36" stroke-width="3"/>
+<rect x="889.78" y="0" width="4.91" height="340" fill="#f1fa8c" stroke="#282a36" stroke-width="3"/>
+<rect x="894.69" y="0" width="4.35" height="340" fill="#ff5555" stroke="#282a36" stroke-width="3"/>
+<rect x="899.04" y="0" width="0.58" height="340" fill="#6272a4" stroke="#282a36" stroke-width="3"/>
+<rect x="899.62" y="0" width="0.24" height="340" fill="#bd93f9" stroke="#282a36" stroke-width="3"/>
+<rect x="899.85" y="0" width="0.10" height="340" fill="#ff79c6" stroke="#282a36" stroke-width="3"/>
+<rect x="899.96" y="0" width="0.04" height="340" fill="#8be9fd" stroke="#282a36" stroke-width="3"/>
+</svg>
